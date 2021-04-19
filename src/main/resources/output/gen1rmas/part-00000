@@ -1,0 +1,401 @@
+CASE110 failed vibration test at end customer: Caterpillar,CU010219 ClearPath Robotics,1,9/4/2019 3:32 pm,RMA000213
+CASE110 failed vibration test at end customer: Caterpillar,CU010219 ClearPath Robotics,1,9/4/2019 3:32 pm,RMA000214
+CASE109 bad false positives in certain pixels,CU000125 GPS Land,1,9/4/2019 2:56 pm,RMA000212
+ return of eval unit,CU201897 RavenOps,1,9/26/2019 9:41 am,RMA010109
+ return of eval unit  broken,CU000105 Magna Electronics Europe,2,9/26/2019 12:29 pm,RMA010110
+ Failed Unit,CU010215 UCS,1,9/25/2019 9:42 am,RMA010107
+ unit no longer spins,CU000148 Carnegie Mellon University,1,9/25/2019 10:03 am,RMA010108
+ Don't get UDP packets and temp too high,CU201861 Adasky,1,9/24/2019 10:22 am,RMA010106
+ Unit is not spinning or warming up,CU000554 Autonomous Solutions, Inc.,1,9/23/2019 9:30 am,RMA010104
+ return unopened loaners,CU202168 Stanford CS Department,4,9/23/2019 12:25 pm,RMA010105
+CASE5103 sensor heats up but lasers don't spin or fire. cannot connect to sensor.,CU010105 Norwegian University of Science and Technology (NTNU) : Department of Engineering Cybernetics (NTNU),1,9/18/2019 6:58 pm,RMA010103
+CASE120 Unopened/return for correct configuration,CU000154:1 The Walt Disney Company : Walt Disney Imagineering,2,9/16/2019 5:53 pm,RMA000224
+ None ,CU000554 Autonomous Solutions, Inc.,1,9/14/2019 2:56 pm,RMA000223
+CASE115 high pitched banging sound when sensor spins,CU000125 GPS Land,1,9/13/2019 9:01 am,RMA000219
+CASE119 Failed Unit,CU000289 Boxbot,2,9/13/2019 5:24 pm,RMA000222
+CASE118 Failed Unit,CU000289 Boxbot,1,9/13/2019 5:14 pm,RMA000221
+CASE117 return of eval unit,CU010418 MIT Driverless Racing Team,1,9/13/2019 4:50 pm,RMA000220
+CASE113 noisy ambient image, lots of shot limiting,CU010703 Ecole De Technologie Superieure (Ets),1,9/11/2019 9:35 am,RMA000217
+CASE112 Sensor stopped sending out point cloud data,CU010380 ENDSTRUCT SCHEMATIX / Shado,1,9/11/2019 9:07 am,RMA000216
+CASE114 new sensor doesn't work,,CU000325 Seoul Robotics,1,9/11/2019 1:24 pm,RMA000218
+CASE111 Lidar Packets failing to send,CU000707 Bernd Group (Lockheed Martin buyer),1,9/10/2019 9:22 am,RMA000215
+ None ,CU010135 Northstar Robotics,1,8/8/2019 1:14 pm,RMA000185
+CASE84 Sensor making a loud sound,CU000289 Boxbot,1,8/7/2019 4:36 pm,RMA000184
+CASE82 Water Ingress,CU000138 Volkswagen : Scania CV AB,1,8/6/2019 9:36 am,RMA000182
+CASE81 Downlink and Water ingress,CU000138 Volkswagen : Scania CV AB,4,8/6/2019 9:26 am,RMA000181
+CASE83 Sensor wont Spin Up Potential QSPi,CU010075 ATI MOTORS PVT LTD,1,8/6/2019 10:25 am,RMA000183
+CASE108 Failed Unit,CU010365 GRASP  Vijay Kumar Lab,1,8/29/2019 9:39 am,RMA000211
+CASE107 Failed Unit,CU000138 Volkswagen : Scania CV AB,1,8/28/2019 6:12 pm,RMA000210
+CASE106 Failed Unit,CU000138 Volkswagen : Scania CV AB,1,8/28/2019 5:59 pm,RMA000209
+CASE104 Failed Unit,CU000148 Carnegie Mellon University,1,8/27/2019 9:40 am,RMA000206
+ None ,CU000194 Endeavor Robotics,1,8/27/2019 4:18 pm,RMA000208
+"CASE105 Appears to be a hardware issue. The error logs shows ""TX_HEATSINK_OVERTEMP"" and """"Temp 133.293747 > 100.000000"".",CU010009 Lodz University of Technology : Institute of Automatic Control,1,8/27/2019 1:12 pm,RMA000207
+CASE102 Internal data transfer issues,CU010508 Neya Systems, LLC,1,8/22/2019 9:11 am,RMA000204
+CASE103 unconfigured sensor,CU010578 SmartFactor Sp. z o.o.,1,8/22/2019 2:52 pm,RMA000205
+ None ,CU010415 AutoBrain,1,8/21/2019 5:21 pm,RMA000203
+CASE100 sealing was not glued well enough and got off,CU000530 Postmates,1,8/21/2019 12:30 pm,RMA000202
+CASE99 Customer cannot ping the lidar anymore,CU010578 SmartFactor Sp. z o.o.,1,8/21/2019 12:09 pm,RMA000201
+CASE98 return of eval unit,CU000789 Kodiak,1,8/20/2019 9:43 am,RMA000199
+CASE79 Point cloud issues,CU010404 Expert Buy France,1,8/20/2019 10:27 am,RMA000200
+CASE78 TX Overheat Alert,CU000243 OPT Technologies,2,8/2/2019 9:51 am,RMA000179
+CASE80 Random False Positives,CU201879 Group O,2,8/2/2019 2:16 pm,RMA000180
+ None ,CU000095:1 Ford Motor Company : Argo.ai,2,8/16/2019 10:53 am,RMA000198
+ None ,CU000136:1 Baidu : Baidu USA,1,8/16/2019 10:19 am,RMA000197
+CASE95 Failed Unit,CU000100 General Motors,2,8/15/2019 4:49 pm,RMA000196
+CASE94 Failed Unit,CU000267 Apollo Robotics,3,8/15/2019 4:16 pm,RMA000195
+CASE93 return of eval unit,CU000391 ETH Zurich : Autonomous Systems Lab,1,8/15/2019 3:07 pm,RMA000194
+CASE92 Failed Unit,CU000138 Volkswagen : Scania CV AB,1,8/15/2019 1:22 pm,RMA000193
+CASE91 Failed Unit,CU000138 Volkswagen : Scania CV AB,4,8/15/2019 1:01 pm,RMA000192
+CASE90 Failed Unit,CU000138 Volkswagen : Scania CV AB,1,8/15/2019 12:48 pm,RMA000191
+ None ,CU000138 Volkswagen : Scania CV AB,1,8/15/2019 12:39 pm,RMA000190
+CASE89 unit not received,CU202005 Kapitein Labs (donation to HVA),1,8/15/2019 10:14 am,RMA000189
+CASE88 Failed Unit,CU010416 Virtual Vehicle,1,8/14/2019 2:09 pm,RMA000188
+CASE87 Failed Unit,CU201958 University of Colorado Boulder,1,8/13/2019 6:36 pm,RMA000187
+CASE86 return of eval unit,CU010215 UCS,1,8/13/2019 6:22 pm,RMA000186
+CASE77 Hardware Issue,CU010415 AutoBrain,1,8/1/2019 1:23 pm,RMA000178
+ None ,CU000380 Prodrone.eu,1,7/9/2019 8:44 am,RMA000153
+ Duplicate loaner to be returned,CU000125 GPS Land,1,7/6/2020 8:30 am,RMA010344
+ Sensor not spinning and not configured,CU010215 UCS,1,7/6/2020 10:01 am,RMA010345
+CASE55 Engineering Sample,CU010281 Fortescue Metals Group Ltd,4,7/5/2019 4:28 pm,RMA000152
+CASE54 Refund(s),CU201966 Bolder Games,1,7/5/2019 4:04 pm,RMA000151
+ None ,CU201958 University of Colorado Boulder,1,7/30/2019 3:54 pm,RMA000177
+ None ,CU000235 Okaya USA,1,7/3/2019 2:39 pm,RMA000149
+ None ,CU010215 UCS,1,7/26/2019 9:14 am,RMA000176
+CASE71 Preemptive replacement,CU010219 ClearPath Robotics,2,7/25/2019 12:35 pm,RMA000175
+ None ,CU010219 ClearPath Robotics,2,7/25/2019 11:57 am,RMA000174
+CASE69 Sensor stopped sending Data,CU010219 ClearPath Robotics,1,7/24/2019 5:16 pm,RMA000173
+CASE68 Sensors stopped producing Data,CU010219 ClearPath Robotics,2,7/24/2019 5:08 pm,RMA000172
+CASE67 Sensor wont Spin Up,CU010250 NPO Tudengi Vormel (Formula Student Team Tallinn),1,7/22/2019 7:44 pm,RMA000171
+CASE66 Sensor wont Spin Up,CU010531 PT Invocore Teknologi Prima,1,7/22/2019 7:10 pm,RMA000170
+ return under swap program,CU202369:1 Ghent University : Ghent University IPI / TELIN,1,7/2/2020 8:55 am,RMA010343
+ return of eval unit,CU001801 Durham University,1,7/2/2020 8:33 am,RMA010342
+CASE50 Incorrect Sensor Sent,CU010510 Skill Junction,1,7/2/2019 9:45 am,RMA000148
+ None ,CU010252 SkyRyse,2,7/19/2019 12:56 pm,RMA000169
+CASE65 Sensor wont Spin Up,CU201795 Nanjing University,1,7/18/2019 3:05 pm,RMA000168
+ None ,CU010219 ClearPath Robotics,1,7/17/2019 7:13 pm,RMA000167
+CASE62 Sensors wont spin up reliably in cold weather,CU001438 Purdue University  Lyles School of Civil Engineering : Center for Road Safety,2,7/17/2019 6:57 pm,RMA000165
+CASE62 Sensors wont spin up reliably in cold weather,CU001438 Purdue University  Lyles School of Civil Engineering : Center for Road Safety,2,7/17/2019 6:57 pm,RMA000166
+ None ,CU000789 Kodiak,1,7/17/2019 6:50 pm,RMA000164
+ None ,CU000157 CNH Industrial,1,7/17/2019 6:20 pm,RMA000163
+CASE63 Tied Up in Customs,CU010219 ClearPath Robotics,1,7/17/2019 5:55 pm,RMA000162
+ None ,CU000079 VIAMETRIS,2,7/15/2019 9:17 am,RMA000158
+ None ,CU201797 Locomation,1,7/13/2019 10:04 am,RMA000157
+ None ,CU001555 U.S. Army Corps of Engineers,1,7/11/2019 5:11 pm,RMA000156
+ None ,CU000083 Alphabet : Google  Internal Security,1,7/11/2019 4:00 pm,RMA000155
+ None ,CU000518 Eleven Consulting,1,7/11/2019 3:48 pm,RMA000154
+ Noisy, seems to be bearing issue, 20db higher than normal,CU010215 UCS,1,6/9/2020 9:56 am,RMA010314
+ Rattling, broken,CU010215 UCS,1,6/9/2020 9:36 am,RMA010313
+ Return of sensors for validation of use  new purchase at discount on OOW sensors,CU000030 Robotic Research LLC,2,6/9/2020 9:12 am,RMA010312
+ Damage to window  need to evaluate for misuse,CU201947 Nxt Robotics,1,6/9/2020 2:16 pm,RMA010316
+ hardware issue  no ethernet respond,CU201952 idriverplus.com,1,6/5/2020 9:00 am,RMA010310
+ None ,CU000030 Robotic Research LLC,1,6/5/2019 12:10 pm,RMA000124
+ None ,CU010089 Automodality,1,6/5/2019 11:49 am,RMA000123
+ Lidar produces annoying beeping sound when running,CU010215 UCS,1,6/4/2020 9:49 am,RMA010308
+ PPS time sync not working. Krishtof has narrowed the likely cause to the sensor,CU203910 SmartDrone,1,6/4/2020 8:58 am,RMA010307
+ Heatsink RTD Failure,CU201989 Kone Cranes,1,6/4/2020 10:34 am,RMA010309
+CASE29 Poor Point Cloud Quality,CU000080 Black & Veatch,1,6/4/2019 2:44 pm,RMA000122
+ Large Amount of Noise,CU000069 Clickmox Solutions Inc.,1,6/30/2020 8:51 am,RMA010337
+ Loaner return,CU202797 Hyphae Design Laboratory,1,6/30/2020 3:08 pm,RMA010339
+CASE27 Unopened return unit,CU010706 Refraction AI,1,6/3/2019 3:59 pm,RMA000121
+ None ,CU010003 SafeSight Exploration Inc.,1,6/28/2019 11:18 am,RMA000147
+ None ,CU010507 University of Sherbrooke,1,6/27/2019 5:17 pm,RMA000146
+ Missing data in the packets,CU000060 NVidia,1,6/26/2020 10:57 am,RMA010336
+ Loaner return,CU000269 Wingtra,1,6/26/2020 10:18 am,RMA010335
+ None ,CU010380 ENDSTRUCT SCHEMATIX / Shado,1,6/26/2019 3:35 pm,RMA000145
+CASE48 Loaner Return,CU010211 ICURO, LLC,1,6/25/2019 5:16 pm,RMA000144
+ return of eval unit,CU202353 Michigan Technological University,1,6/22/2020 9:51 am,RMA010333
+ Preemptive replacement,CU000138 Volkswagen : Scania CV AB,1,6/22/2020 9:29 am,RMA010332
+CASE46 Sensor wont power on,CU010365 GRASP  Vijay Kumar Lab,1,6/21/2019 1:44 pm,RMA000143
+CASE38 Sensor making clicking noise,CU010128 Parkopedia Limited,1,6/21/2019 10:20 am,RMA000142
+CASE45 Sensor wont Spin Up,CU010641 VSI Labs,1,6/19/2019 9:42 am,RMA000141
+CASE44 Loaner Return,CU000049 SAIC : SAIC  USA,1,6/19/2019 9:02 am,RMA000140
+CASE43 Sensor Noisy,CU010380 ENDSTRUCT SCHEMATIX / Shado,1,6/19/2019 8:29 am,RMA000139
+ Unconfigured Demo Sensor,CU010215 UCS,1,6/18/2020 8:53 am,RMA010329
+ failing to program the FPGA, investigate eMMC problems,CU000083 Alphabet : Google  Internal Security,1,6/18/2020 4:19 pm,RMA010330
+CASE42 Sensor not reading properly at Min Range,CU010378 Fusion Processing Ltd,1,6/18/2019 8:44 am,RMA000137
+ Broken connector on sensor, no rotation,CU010215 UCS,1,6/17/2020 8:30 am,RMA010327
+ Return of sensor under swap program,CU202070 MIT,1,6/17/2020 4:41 pm,RMA010328
+CASE41 Sensor Quit Spinning,CU010135 Northstar Robotics,1,6/17/2019 6:35 pm,RMA000136
+CASE40 Range Calibration Issue,CU201797 Locomation,1,6/17/2019 5:22 pm,RMA000135
+ OS264 out of the box sensor gives RX_EEPROM_SYNC_ERROR,CU204813 Ouster at WeWork,1,6/16/2020 9:50 am,RMA010325
+ Sensory Buzzing, heats up End customer: RWTH:Aachen Univ,CU010685 General Laser Tochev & Tochev,1,6/16/2020 9:03 am,RMA010324
+ Broken, turntable wobbling  OS264,CU204555 Suzhou Office,1,6/15/2020 6:19 pm,RMA010323
+ Sensor does not turn on and connector spins in place,CU201910 Renu Robotics Corp. dba RenuBot,1,6/15/2020 3:32 pm,RMA010322
+ Customer dropped sensor,CU201947 Nxt Robotics,1,6/15/2020 3:01 pm,RMA010321
+CASE33 Sensor Quit Spinning,CU000363 DigitalWorld Mapping Inc.,1,6/12/2019 6:47 pm,RMA000133
+CASE35 Sensor stopped spinning,CU001650 Astyx Inc,1,6/12/2019 10:47 am,RMA000132
+CASE36 Sensor Failure,CU000363 DigitalWorld Mapping Inc.,1,6/12/2019 10:42 am,RMA000131
+ None ,CU001650 Astyx Inc,1,6/11/2019 11:41 pm,RMA000128
+ None ,CU010365 GRASP  Vijay Kumar Lab,1,6/11/2019 11:34 pm,RMA000127
+ None ,CU000363 DigitalWorld Mapping Inc.,1,6/11/2019 11:19 pm,RMA000126
+CASE32 Point Cloud Issue,CU010168 Claytex Services Ltd,1,6/11/2019 10:04 am,RMA000125
+ Zero beam angles,CU203287 FST Lisboa,1,6/10/2020 8:40 am,RMA010318
+ None ,CU000430:5 Samsung : Samsung Semiconductor, Inc.,1,5/8/2019 9:17 am,RMA000105
+ None ,CU000195 TORC Robotics Inc,1,5/7/2019 7:52 pm,RMA000102
+ None ,CU000195 TORC Robotics Inc,1,5/7/2019 10:57 pm,RMA000104
+ None ,CU000195 TORC Robotics Inc,2,5/7/2019 10:52 pm,RMA000103
+ None ,CU010215 UCS,1,5/6/2019 8:41 pm,RMA000101
+ None ,CU010215 UCS,1,5/6/2019 8:35 pm,RMA000100
+ None ,CU000289 Boxbot,1,5/6/2019 4:57 pm,RMA000099
+ None ,CU000289 Boxbot,1,5/6/2019 4:16 pm,RMA000098
+ Deliver final hardware configuration,CU000060 NVidia,5,5/5/2020 3:55 pm,RMA010285
+ Ouster sending 100 packets/s,CU000083 Alphabet : Google  Internal Security,1,5/4/2020 9:12 am,RMA010280
+ None ,CU000426 Sandia National Laboratories,1,5/31/2019 5:22 pm,RMA000120
+ None ,CU000289 Boxbot,1,5/31/2019 1:55 pm,RMA000119
+ None ,CU000789 Kodiak,1,5/31/2019 11:38 am,RMA000118
+ None ,CU000055 Norwegian University of Science and Technology (NTNU),1,5/31/2019 11:31 am,RMA000117
+ None ,CU010578 SmartFactor Sp. z o.o.,1,5/31/2019 11:18 am,RMA000116
+ None ,CU000554 Autonomous Solutions, Inc.,6,5/31/2019 11:05 am,RMA000115
+CASE20 Failed Unit,CU000554 Autonomous Solutions, Inc.,6,5/30/2019 5:02 pm,RMA000114
+ None ,CU000837 Uber : Uber ATG,1,5/3/2019 10:01 am,RMA000097
+ return of eval unit,CU010462 Rizse Inc,1,5/29/2020 2:28 pm,RMA010304
+CASE19 Sensor Failure,CU010690 University of Quebec at Montreal (UQAM),1,5/29/2019 12:59 pm,RMA000113
+ High Noise Level (64db),CU010215 UCS,1,5/22/2020 12:56 pm,RMA010295
+CASE18 Sensor Failure,CU000069 Clickmox Solutions Inc.,1,5/20/2019 1:09 pm,RMA000112
+CASE17 Sensor Failure,CU000530 Postmates,2,5/20/2019 1:03 pm,RMA000111
+CASE16 Sensor Failure,CU000325 Seoul Robotics,1,5/20/2019 12:40 pm,RMA000110
+ Motor start up failure,CU010559 XCMG Group,1,5/19/2020 10:19 am,RMA010293
+CASE15 Sensor Failure,CU000789 Kodiak,1,5/17/2019 4:27 pm,RMA000109
+ None ,CU000325 Seoul Robotics,1,5/16/2019 3:40 pm,RMA000108
+ None ,CU000789 Kodiak,1,5/14/2019 3:52 pm,RMA000107
+ Out of warranty sensor, customer wants FA done,CU000265 Flyability SA,1,5/13/2020 1:12 pm,RMA010289
+ None ,CU001880 Opus Inspection, Inc.,1,5/10/2019 11:44 am,RMA000106
+ None ,CU000536 NAL  group KOITO,1,4/9/2019 9:27 pm,RMA000038
+ None ,CU000028 Oxbotica,1,4/8/2019 8:48 am,RMA000037
+ Failed waterproof testing   Samsung end customer,CU010215 UCS,2,4/6/2020 10:45 am,RMA010262
+ None ,CU000083 Alphabet : Google  Internal Security,2,4/30/2019 9:57 am,RMA000096
+ None ,CU010298 Born Electric,1,4/30/2019 9:19 am,RMA000095
+ unconfigured error,CU010656 Levi Farrand,1,4/3/2020 7:56 am,RMA010260
+ Broken bearings,CU000789 Kodiak,1,4/29/2020 5:24 pm,RMA010278
+ Sending 50% packets,CU000083 Alphabet : Google  Internal Security,1,4/29/2020 2:27 pm,RMA010275
+ swap return,CU203639 tempusex.com,1,4/27/2020 5:48 pm,RMA010274
+ return of eval unit,CU202455 Salix Consulting, Inc.,1,4/27/2020 5:35 pm,RMA010273
+ None ,CU010538 Whale Offshore,1,4/26/2019 12:22 pm,RMA000094
+ None ,CU010416 Virtual Vehicle,3,4/26/2019 11:54 am,RMA000093
+ None ,CU000343 Yandex,1,4/26/2019 10:39 am,RMA000092
+ None ,CU000195 TORC Robotics Inc,1,4/23/2019 10:25 am,RMA000091
+ Heatsink RTD failure,CU201814 Johns Hopkins University Applied Physics Laboratory,1,4/21/2020 9:49 am,RMA010269
+ Heatsink RTD failure,CU010089 Automodality,1,4/21/2020 9:36 am,RMA010268
+ The sensor has suffered a light vibration test before failure.,CU202163 Suzhou Soy Robotics Co.,Ltd.,1,4/2/2020 9:12 am,RMA010259
+ Customer wanted Gen2 not Gen1,CU010707 Emesent,1,4/2/2020 8:54 am,RMA010258
+ None ,CU010128 Parkopedia Limited,1,4/2/2019 9:36 am,RMA000035
+ None ,CU010462 Rizse Inc,1,4/2/2019 3:29 pm,RMA000036
+ No Rotation, LiDar not starting,CU202694 401 Labs Inc.,1,4/16/2020 2:35 pm,RMA010267
+ No Window_Rejection_Enable in 1.13, Losing chunks of data in 1.12,CU000380 Prodrone.eu,1,4/16/2020 1:48 pm,RMA010266
+ None ,CU000195 TORC Robotics Inc,1,4/16/2019 5:21 pm,RMA000090
+ None ,CU000048 KS Control (germany),1,4/16/2019 11:24 am,RMA000089
+ None ,CU010225 Skycorp,1,4/15/2019 12:44 pm,RMA000088
+ None ,CU000265 Flyability SA,1,4/15/2019 12:43 pm,RMA000087
+ None ,CU000243 OPT Technologies,1,4/15/2019 12:43 pm,RMA000086
+ None ,CU010193 DHS (Aust) Pty Ltd,1,4/15/2019 12:43 pm,RMA000085
+ None ,CU000709 Technical University of Dortmund,1,4/15/2019 12:42 pm,RMA000084
+ None ,CU000561 Autonomous Surface Vehicles (ASV),1,4/15/2019 12:41 pm,RMA000083
+ None ,CU000243 OPT Technologies,1,4/15/2019 12:41 pm,RMA000080
+ None ,CU010215 UCS,1,4/15/2019 12:41 pm,RMA000081
+ None ,CU000085 ETH Zurich : ETH Zurich (NCCR Digital Fabrication),1,4/15/2019 12:41 pm,RMA000082
+ None ,CU000796 Centro Tecnolï¿½gico de Automociï¿½n de Galicia (CTAG),2,4/15/2019 12:40 pm,RMA000079
+ None ,CU001838 Johns Hopkins University : JHU Applied Physics Laboratory,1,4/15/2019 12:40 pm,RMA000078
+ None ,CU010089 Automodality,1,4/15/2019 12:39 pm,RMA000075
+ None ,CU000054 University of Michigan : Perceptual Robotics Lab,1,4/15/2019 12:39 pm,RMA000074
+ None ,CU010089 Automodality,1,4/15/2019 12:39 pm,RMA000077
+ None ,CU001875 spleenlab.com,1,4/15/2019 12:39 pm,RMA000076
+ None ,CU001182 Flight Evolved,1,4/15/2019 12:38 pm,RMA000071
+ None ,CU010504 Solid Holdings LTD,1,4/15/2019 12:38 pm,RMA000073
+ None ,CU010069 PlusAI,1,4/15/2019 12:38 pm,RMA000070
+ None ,CU010365 GRASP  Vijay Kumar Lab,1,4/15/2019 12:38 pm,RMA000072
+ None ,CU010093 Future Data Sense Technology (Fedasen),1,4/15/2019 12:37 pm,RMA000067
+ None ,CU010125 Avistadrone,1,4/15/2019 12:37 pm,RMA000068
+ None ,CU000151 Fuji Technical Research Inc.,1,4/15/2019 12:37 pm,RMA000066
+ None ,CU001182 Flight Evolved,1,4/15/2019 12:37 pm,RMA000069
+ None ,CU001879 Lemor,1,4/15/2019 12:36 pm,RMA000064
+ None ,CU010132 Toyota Research Institute (TRI)  Robotics,1,4/15/2019 12:36 pm,RMA000063
+ None ,CU000328 DESRLab HK University (HKUST),1,4/15/2019 12:36 pm,RMA000062
+ None ,CU010262 Smart Navigation,1,4/15/2019 12:36 pm,RMA000065
+ None ,CU001877 Curl Analytics,1,4/15/2019 12:35 pm,RMA000059
+ None ,CU010059 Gabe Sibley,1,4/15/2019 12:35 pm,RMA000061
+ None ,CU010253 Aeroscan Solutions,1,4/15/2019 12:35 pm,RMA000060
+ None ,CU001501 Stanley Black & Decker,1,4/15/2019 12:34 pm,RMA000057
+ None ,CU001828 Buffalo Automation,1,4/15/2019 12:34 pm,RMA000058
+ None ,CU010081 headhunter,1,4/15/2019 12:33 pm,RMA000056
+ None ,CU010127 Wuxi Heizei Technology,1,4/15/2019 12:33 pm,RMA000055
+ None ,CU010128 Parkopedia Limited,1,4/15/2019 12:32 pm,RMA000054
+ None ,CU000133 Geoslam,1,4/15/2019 12:32 pm,RMA000053
+ None ,CU000374 Kyburz,1,4/15/2019 12:31 pm,RMA000052
+ None ,CU010021 Aerial Precision,1,4/15/2019 12:31 pm,RMA000051
+ None ,CU010217 Motion Miracles,1,4/15/2019 12:31 pm,RMA000050
+ None ,CU010479 Aerones Inc.,1,4/15/2019 12:29 pm,RMA000047
+ None ,CU010226 Stevens Institute of Technology,1,4/15/2019 12:29 pm,RMA000049
+ None ,CU010215 UCS,1,4/15/2019 12:29 pm,RMA000048
+ None ,CU000143 Third Wave Automation (forklift.ai),1,4/15/2019 12:28 pm,RMA000046
+ None ,CU000069 Clickmox Solutions Inc.,1,4/15/2019 12:27 pm,RMA000044
+ None ,CU010077 Prodrone,1,4/15/2019 12:27 pm,RMA000045
+ None ,CU000143 Third Wave Automation (forklift.ai),1,4/15/2019 12:26 pm,RMA000043
+ None ,CU010207 Sulzer Schmid,1,4/15/2019 12:23 pm,RMA000042
+ None ,CU010111 Imagry,1,4/15/2019 12:23 pm,RMA000041
+ None ,CU010126 Olyseum,1,4/15/2019 12:21 pm,RMA000040
+ Recal: Unit has no beam angles at EOL,CU203288 Global Formula Racing,1,4/14/2020 9:06 am,RMA010264
+ return of RMA for Gen2 sensor,CU010219 ClearPath Robotics,1,4/13/2020 9:47 am,RMA010263
+ None ,CU000273 deepscale.ai,1,4/11/2019 9:12 am,RMA000039
+ None ,CU000789 Kodiak,1,4/1/2019 12:46 pm,RMA000034
+ Loaner return,CU010451 ARA Robotics,1,3/9/2020 1:15 pm,RMA010240
+ None ,CU000040 Fantasmo,1,3/5/2019 4:52 pm,RMA000028
+ After restart attempts, unit did not recover. Going to error stat,CU000083 Alphabet : Google  Internal Security,3,3/4/2020 10:29 am,RMA010238
+ Customer wanted Gen2 not Gen1,CU010707 Emesent,1,3/30/2020 6:46 am,RMA010256
+ None ,CU000083 Alphabet : Google  Internal Security,1,3/26/2019 11:36 am,RMA000033
+ eeprom downlink error,CU010685 General Laser Tochev & Tochev,1,3/24/2020 8:57 am,RMA010254
+ None ,CU010278 Teknologian Tutkimuskeskus VTT Oy  VTT Technical Research Centre of Finland,2,3/22/2019 9:06 am,RMA000032
+ LIDAR_DMA_HALTED,CU001498 SRI INTERNATIONAL,1,3/2/2020 1:07 pm,RMA010231
+ End Customer Caterpillar   Failed vibration test,CU010219 ClearPath Robotics,1,3/2/2020 12:04 pm,RMA010230
+ Exchange of sensor under agreement,CU201885 Ysly Co., Ltd. (distributor for National Taiwan University),1,3/19/2020 9:35 am,RMA010253
+ return of sensor under 30 day return for free,CU203403 Stanley Robotics,1,3/18/2020 11:30 am,RMA010252
+ Failed Unit,CU010075 ATI MOTORS PVT LTD,1,3/18/2020 11:15 am,RMA010251
+ None ,CU000789 Kodiak,1,3/13/2019 4:14 pm,RMA000031
+ consumed ~3.6W steadily. No rotation. The ethernet interface is dead in the sense that no frames are emitted, not even the multicast messages that are sent on bootup,CU000138 Volkswagen : Scania CV AB,4,3/12/2020 9:17 am,RMA010250
+ recalibrated sensor returned as it did not meet requirements,CU000789 Kodiak,1,3/11/2020 1:47 pm,RMA010249
+ Loaner return,CU203428 lst Call Technical Services, lnc.,1,3/11/2020 1:20 pm,RMA010248
+ None ,CU000106 Aptiv,1,3/11/2019 11:49 am,RMA000030
+ None ,CU000083 Alphabet : Google  Internal Security,1,3/11/2019 10:34 am,RMA000029
+ Failed Unit,CU010197 Ike Robotics,1,3/10/2020 7:19 pm,RMA010247
+ Failed Unit,CU010197 Ike Robotics,1,3/10/2020 7:14 pm,RMA010246
+ Loaner return,CU010197 Ike Robotics,1,3/10/2020 7:09 pm,RMA010245
+ Loaner return,CU000382 Dynium Robots,1,3/10/2020 6:39 pm,RMA010244
+ 0's in all azimuth / altitude angles,CU202275 Moment Factory,1,3/10/2020 6:23 pm,RMA010243
+ return of broken sensor which is a loaner,CU001828 Buffalo Automation,1,3/10/2020 6:05 pm,RMA010242
+ Bad bearings. Noise. Shut down after start up,CU001828 Buffalo Automation,1,3/10/2020 11:10 am,RMA010241
+ None ,CU000554 Autonomous Solutions, Inc.,1,3/1/2019 2:05 pm,RMA000027
+ None ,CU000100:1 General Motors : Cruise Automation, Inc.,1,3/1/2019 1:50 pm,RMA000026
+ reinitialize the unit and it never turned back on (no diagnostics),CU010504 Solid Holdings LTD,1,2/9/2020 7:04 pm,RMA010194
+ Preemptive  ODU sensor return  per Chris AH,CU000039:2 Denso : Denso ADAS Engineering Services GmbH,1,2/7/2020 10:06 am,RMA010193
+ None ,CU000214 3D Target,2,2/6/2020 9:12 am,RMA010191
+ The sensor is producing noise, with video. Antler rubbing,CU017700 CPE Tecnologia,1,2/6/2020 6:44 pm,RMA010192
+ OS1 reporting UNCONFIGURED. Log id: 0x0100002A, WIRELESS_POWER_STARTUP_SLOW,CU000530 Postmates,1,2/5/2020 9:51 am,RMA010189
+ functioning units returned for newer gen,CU000103 Hyundai  HATCI,2,2/5/2020 9:31 am,RMA010188
+ Return of undelivered unit from Fedex,CU001868:1 Universidad Politï¿½cnica de Madrid : Instituto Universitario de Investigación del Automóvil (INSIA),1,2/5/2020 12:01 pm,RMA010190
+ None ,CU000060 NVidia,1,2/5/2019 5:05 pm,RMA000016
+ Custoemer wanted OS1 16,CU000243 OPT Technologies,1,2/4/2020 4:38 pm,RMA010187
+ Failed Unit Does not switch on,CU000039:2 Denso : Denso ADAS Engineering Services GmbH,1,2/4/2020 12:35 pm,RMA010186
+ None ,CU000334 AutoX,1,2/4/2019 4:42 pm,RMA000015
+ Downlink Error,CU010212 Rutgers University,1,2/3/2020 4:14 pm,RMA010185
+ Unit has experienced an internal COMM error,CU000039:2 Denso : Denso ADAS Engineering Services GmbH,1,2/3/2020 12:42 pm,RMA010184
+ 0x0100003D LIDAR_DMA_HALTED Powering on and off intermittedly,CU000554 Autonomous Solutions, Inc.,1,2/28/2020 9:50 am,RMA010228
+ return of eval unit,CU202038 Bosch Abstatt,1,2/28/2020 10:53 am,RMA010229
+ return of eval unit,CU202609 turingdrive.com,1,2/27/2020 2:07 pm,RMA010226
+ None ,CU000128 Colorado School of Mines : SubT DARPA Research Group,2,2/27/2019 12:24 pm,RMA000025
+ Fail  intermittant connection issue, can not connect with Ouster Studio, or CS test app,CU000530 Postmates,1,2/26/2020 10:28 am,RMA010223
+ Wrong sensors provisioned,CU010075 ATI MOTORS PVT LTD,3,2/25/2020 5:19 pm,RMA010222
+ Sensor recalibration did not resolve curved ground issue,CU000789 Kodiak,1,2/24/2020 12:00 pm,RMA010221
+ None ,CU000159 Georgia Tech Research Institute,1,2/22/2019 9:46 am,RMA000024
+ None ,CU000037 Carnegie Mellon University : Carnegie Mellon University,1,2/22/2019 9:33 am,RMA000023
+ None ,CU000289 Boxbot,1,2/22/2019 9:26 am,RMA000022
+ Sensor won't turn on or spin,CU010685 General Laser Tochev & Tochev,1,2/21/2020 9:39 am,RMA010216
+ Sensor not spinning,CU010439 Positics,1,2/21/2020 5:24 pm,RMA010220
+ Not spinning, generating too much heat, internal temp out of bounds.,CU201936 Texas A&M,1,2/21/2020 12:34 pm,RMA010219
+ Corrupt (QSPI, bit flip),CU000159 Georgia Tech Research Institute,1,2/21/2020 11:43 am,RMA010217
+ return of unopened unit for credit, to order Gen2 instead,CU010669 Level Five Supplies,1,2/20/2020 12:56 pm,RMA010215
+ run 23 seconds then failure with overheating alerts,CU202163 Suzhou Soy Robotics Co.,Ltd.,1,2/18/2020 9:11 am,RMA010210
+ Preemptive replacement,CU000789 Kodiak,1,2/18/2020 12:15 pm,RMA010214
+ Preemptive replacement,CU000789 Kodiak,1,2/18/2020 12:11 pm,RMA010213
+ not reporting data,CU000138 Volkswagen : Scania CV AB,1,2/18/2020 11:17 am,RMA010212
+ Internal errors and not reporting data,CU000138 Volkswagen : Scania CV AB,1,2/18/2020 11:10 am,RMA010211
+ higher noise than usual, there may be some mechanical interference,CU010215 UCS,1,2/14/2020 9:30 am,RMA010207
+ return of eval unit,CU000795 FCA,1,2/14/2020 8:48 am,RMA010206
+ Since upgrade to 1.13 error message,CU010129 DanaDynamics,1,2/14/2020 1:47 pm,RMA010209
+ we couldn't keep it alive to do a single collect.,CU001555 U.S. Army Corps of Engineers,1,2/14/2020 12:45 pm,RMA010208
+ None ,CU000420 Kespry,1,2/14/2019 4:19 pm,RMA000021
+ None ,CU000028 Oxbotica,1,2/14/2019 10:52 am,RMA000020
+ unit for recalibration,CU000243 OPT Technologies,1,2/13/2020 9:41 am,RMA010204
+ sensor to be recalibrated,CU010685 General Laser Tochev & Tochev,1,2/13/2020 9:17 am,RMA010203
+ LIDAR is not responding and is consumes only ~150mA at the 24V,CU010298 Born Electric,1,2/13/2020 12:06 pm,RMA010205
+ Fails to call DNS, reduction of Lidar points, clicking sound,CU010212 Rutgers University,1,2/12/2020 9:34 am,RMA010199
+ recalibration requested,CU000789 Kodiak,1,2/12/2020 5:54 pm,RMA010202
+ issues spinning up even when starting ‘cold’ (unpowered overnight).,CU000042 HLS HARDLINE SOLUTIONS INC.,1,2/12/2020 1:37 pm,RMA010201
+ Water Ingress,CU000789 Kodiak,1,2/12/2020 1:22 pm,RMA010200
+ command to query data from the lidar, it returns empty data. get_lidar_intrinsics returning 0s for beam / azimuth angles,CU000020 Industrial Technology Research Institute (ITRI),1,2/11/2020 9:30 am,RMA010197
+ Moisture Ingress, Missing Points,CU000789 Kodiak,1,2/11/2020 6:00 pm,RMA010198
+ None ,CU001854 Centre en Imagerie Numï¿½rique et Mï¿½dias Interactifs (CIMMI),1,2/11/2019 1:31 pm,RMA000019
+ None ,CU000554 Autonomous Solutions, Inc.,1,2/11/2019 1:16 pm,RMA000018
+ None ,CU000789 Kodiak,1,2/11/2019 12:58 pm,RMA000017
+ Remains in unconfigured mode,CU000374 Kyburz,1,2/10/2020 12:52 pm,RMA010196
+ no longer turning was mounted transversely on the robot,CU000374 Kyburz,1,2/10/2020 12:43 pm,RMA010195
+ None ,CU000055 Norwegian University of Science and Technology (NTNU),1,2/1/2019 8:50 am,RMA000013
+ None ,CU010215 UCS,1,2/1/2019 1:46 pm,RMA000014
+ sensor somehow becomes very slow to initialize and transfer the data.  We have also noticed that the cover has a crack,CU001498 SRI INTERNATIONAL,1,12/9/2019 9:16 am,RMA010151
+ Sensor does not boot,CU010416 Virtual Vehicle,1,12/5/2019 4:10 pm,RMA010150
+ Sensor does not boot  End Customer Daimler,CU000284 AutonomouStuff,1,12/5/2019 10:34 am,RMA010149
+ Sensors stopped working after they took truck out in the rain,CU010197 Ike Robotics,2,12/5/2019 10:19 am,RMA010148
+ None ,CU010023 University of Nevada Reno,1,12/4/2018 9:15 pm,RMA000004
+ Ethernet stopped working, then entire sensor stopped working,CU010506 Starline,1,12/27/2019 1:07 pm,RMA010159
+ Loaner return,CU000148 Carnegie Mellon University,1,12/20/2019 3:00 pm,RMA010158
+ None ,CU000058 Banks and Banks,1,12/20/2018 12:05 pm,RMA000005
+ Failed Unit,CU010111 Imagry,1,12/2/2019 3:30 pm,RMA010147
+ None ,CU000226 VoxelMaps,1,12/19/2019 9:53 am,RMA010157
+ 109  failed, 022 overheats,CU010578 SmartFactor Sp. z o.o.,2,12/16/2019 7:11 pm,RMA010155
+ Overheating, sensor turns on but does not spin,CU000125 GPS Land,1,12/16/2019 12:18 am,RMA010154
+ Overheating, sensor turns on but does not spin,CU000125 GPS Land,1,12/16/2019 10:26 pm,RMA010156
+ Intermittent downlink,CU000083 Alphabet : Google  Internal Security,1,12/12/2019 5:06 pm,RMA010153
+" Trouble making connection to the sensor ""Internal fault""",CU000554 Autonomous Solutions, Inc.,1,12/11/2019 10:30 am,RMA010152
+ None ,CU000031 Optimus Ride,3,11/8/2018 4:07 pm,RMA000002
+ water ingress,CU000072 Sandvik,1,11/7/2019 12:55 pm,RMA010135
+ Sensor will not power up,CU000789 Kodiak,1,11/27/2019 8:36 am,RMA010146
+ image after upgrade of sensor is degraded,CU202349 manitgroup.com,1,11/26/2019 9:16 am,RMA010143
+ Tried to update from 1.13 beta to 1.13 release and status on sensor now  unconfigured  end customer Catepillar,CU010219 ClearPath Robotics,1,11/26/2019 8:50 am,RMA010142
+" engineers say that this sensor is ""unreliable""  but unable to provide logs It could be a calibration or range repeatability issue based on pictures from customer.  Preemptive return need FA analysis to determine if we replace",CU010089 Automodality,1,11/26/2019 1:52 pm,RMA010145
+ sensor immediately gets overtemp errors despite being properly heat sinked,CU000345:5 ETH Zurich : Dept of Earth Sciences,1,11/26/2019 11:21 am,RMA010144
+ Sensor not starting in cold,CU000554 Autonomous Solutions, Inc.,1,11/22/2019 2:53 pm,RMA010141
+ Just for your information, the motor does spin, but the laser flash is not visible like it is normally. // Internal_COMM,CU202022 Dataspeed,1,11/21/2019 3:51 pm,RMA010140
+ internal fault error,CU000195 TORC Robotics Inc,1,11/21/2019 3:34 pm,RMA010139
+ Failed Units,CU000083 Alphabet : Google  Internal Security,2,11/20/2019 9:26 am,RMA010138
+ return of eval unit unopened,CU202513 Tacticaware,1,11/19/2019 9:22 am,RMA010137
+ None ,1 Hitachi Automotive Systems Americas, Inc. : Loaner Return,1,11/19/2018 10:48 am,RMA000003
+ Return of unopened unit; keeping SL,CU202544 Roush Industries, Inc,1,11/18/2019 4:06 pm,RMA010136
+ sensor does not even turn on for less a 1 minute before it shuts off,CU000125 GPS Land,1,11/1/2019 12:28 pm,RMA010134
+ unit not received,CU201861 Adasky,1,10/4/2019 9:39 am,RMA010114
+ cold to touch, does not turn on after a few months of disuse,CU201861 Adasky,1,10/4/2019 3:14 pm,RMA010116
+ return of eval unit,CU000034 Voyage,1,10/4/2019 10:20 am,RMA010115
+ Sensor doesn't give full 360 view and is noisy,CU000789 Kodiak,1,10/31/2019 3:19 pm,RMA010133
+ return of eval unit,CU000028 Oxbotica,1,10/31/2019 10:22 am,RMA010132
+ Failed Unit,CU010215 UCS,1,10/30/2019 8:52 am,RMA010131
+ return of incorrect units sent,CU010380 ENDSTRUCT SCHEMATIX / Shado,2,10/3/2019 10:27 am,RMA010113
+ return of eval unit,CU010564 CRON Systems Pvt. Ltd.,1,10/29/2019 8:41 am,RMA010130
+ Sensor misconfigured from factory,CU010636 sees.ai (formerly BeTomorrow),1,10/28/2019 3:04 pm,RMA010129
+ return of eval unit,CU202353 Michigan Technological University,1,10/28/2019 2:53 pm,RMA010128
+ return of eval unit,CU010467 Vanishing Point virtual production Ltd,1,10/28/2019 2:41 pm,RMA010127
+ Sensor noisy and not receiving data from it,CU010019 TU Kaiserslautern,1,10/21/2019 8:52 am,RMA010126
+ Loud Spinning noise,CU000374 Kyburz,1,10/18/2019 8:53 am,RMA010125
+ sensor does not power on,CU000554 Autonomous Solutions, Inc.,1,10/15/2019 5:59 pm,RMA010123
+ return of eval unit,CU000283 Ghost Robotics,1,10/14/2019 9:27 am,RMA010121
+ Failed Units,CU000195 TORC Robotics Inc,2,10/11/2019 4:21 pm,RMA010120
+ Lidar does not heat up or spin or show signs of connectivity upon plugging in,CU000707 Bernd Group (Lockheed Martin buyer),1,10/11/2019 3:43 pm,RMA010119
+ Return of unit to retrofit cap,CU010634 FlexNGate,1,10/10/2019 9:30 am,RMA010117
+ Swapping ODU to SINBON to showcase our IP69K in a sailing race,CU000361 Sail Vision LLC.,2,10/10/2019 5:40 pm,RMA010118
+ Failed Unit,CU201799 IDMind,1,10/1/2019 2:03 pm,RMA010112
+ return of eval unit,CU202360 Czech Technical University in Prague,1,10/1/2019 1:47 pm,RMA010111
+ Recalibration of 3 sensors,CU000493 Boston Dynamics,1,1/6/2020 9:38 am,RMA010160
+ Failed Unit,CU000361 Sail Vision LLC.,1,1/31/2020 8:43 am,RMA010183
+ None ,CU000028 Oxbotica,1,1/31/2019 4:28 pm,RMA000012
+ None ,CU000030 Robotic Research LLC,1,1/31/2019 3:43 pm,RMA000011
+ None ,CU000518 Eleven Consulting,1,1/31/2019 12:27 pm,RMA000010
+ Defective Lidars (3),CU000083 Alphabet : Google  Internal Security,3,1/29/2020 12:59 pm,RMA010182
+ unconfigured sensor,CU001868:1 Universidad Politï¿½cnica de Madrid : Instituto Universitario de Investigación del Automóvil (INSIA),1,1/29/2020 12:35 pm,RMA010181
+ did not see either DHCP or mDNS packets from the ouster.,CU000159 Georgia Tech Research Institute,1,1/28/2020 9:27 am,RMA010179
+ recalibration requested  created RFC010002,CU010439 Positics,1,1/28/2020 4:49 pm,RMA010180
+ Unit unreliable, no lidar data packets are published every couple minutes,CU201958 University of Colorado Boulder,1,1/24/2020 1:23 pm,RMA010178
+ None ,CU010109 Volkswagen : Autonomous Intelligent Driving GmbH,1,1/24/2019 3:00 pm,RMA000009
+ COMM error  replace sensor,CU000265 Flyability SA,1,1/23/2020 9:54 am,RMA010176
+ Failed Unit  water damage,CU000148 Carnegie Mellon University,1,1/23/2020 3:37 pm,RMA010177
+ return of eval unit,CU202208 Derivative Inc.,1,1/21/2020 9:55 am,RMA010173
+ loaner sent without beam calibration,CU203122 Lucint Systems, Inc.,1,1/21/2020 9:36 am,RMA010172
+ Ethernet interface dead.  Sensors not spinning,CU000138 Volkswagen : Scania CV AB,3,1/21/2020 3:28 pm,RMA010174
+ unit not received  stuck in customs,CU010506 Starline,1,1/17/2020 2:18 pm,RMA010171
+ Customer dropped sensor  selling them new one under discounted oow sales,CU201958 University of Colorado Boulder,1,1/17/2020 1:40 pm,RMA010170
+ Return unopened units,CU000100 General Motors,2,1/17/2020 10:54 am,RMA010169
+ Failed Unit,CU010089 Automodality,1,1/16/2020 2:18 pm,RMA010168
+ None ,CU010165 SICK AG,1,1/16/2019 12:06 pm,RMA000008
+ Sensor not powering on,CU000426 Sandia National Laboratories,1,1/14/2020 12:38 pm,RMA010167
+ None ,CU000055 Norwegian University of Science and Technology (NTNU),1,1/14/2019 10:57 am,RMA000007
+ Failed Units  blurry point cloud on one, not visible on other,CU000100 General Motors,2,1/13/2020 9:18 am,RMA010164
+ rma of rma,CU010578 SmartFactor Sp. z o.o.,1,1/13/2020 3:07 pm,RMA010166
+ Recalibration of 6 sensors,CU000530 Postmates,6,1/13/2020 1:41 pm,RMA010165
+ out of warranty sensor, customer wanting replacement,CU000284 AutonomouStuff,1,1/10/2020 9:16 am,RMA010163
+ Customer changed their mind on sensor,CU202163 Suzhou Soy Robotics Co.,Ltd.,1,1/10/2020 8:51 am,RMA010162
+ None ,CU010210 Hexagon,1,1/10/2019 8:59 am,RMA000006

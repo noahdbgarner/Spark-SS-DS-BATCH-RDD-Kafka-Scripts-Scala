@@ -1,0 +1,4 @@
+[ERROR:client.cc()] Forwarding ultrasound user distance to opal failed: native interface implementation unknown or not yet registered for method /assistant.gallium.dragonglass.platform_services.proximity.ProximityHandler/OnProximityChanged
+[ERROR:client.cc()] Forwarding proximity control to opal failed: native interface implementation unknown or not yet registered for method /assistant.gallium.dragonglass.platform_services.proximity.ProximityControlHandler/OnProximityControlChanged
+[ERROR:client.cc()] Forwarding connection info to opal failed: native interface implementation unknown or not yet registered for method /gallium.castos.SystemSettingsListener/OnConnectionInfoChanged
+Storing disconnect, reason="UNKNOWN_SERVER_EOF"

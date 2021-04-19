@@ -1,0 +1,64 @@
+ None   ,36
+Below Spec Lenses aren't frosted ,10
+Failed Unit ,9
+Loaner return ,4
+return of eval unit ,4
+consumed ~3.6W steadily. No rotation. The ethernet interface is dead in the sense that no frames are emitted  not even the multicast messages that are sent on boot up ,4
+Wrong sensors provisioned ,3
+recalibrated sensor returned as it did not meet requirements ,2
+Heatsink RTD failure ,2
+Internal errors and not reporting data ,2
+TX Overheat Alert ,2
+Pre emptive replacement ,2
+return of incorrect units sent ,2
+109   failed  022 overheats ,2
+Sensor Failure ,2
+return of eval unit   broken ,2
+functioning units returned for newer gen ,2
+DOWNLINK_STARTUP_FAILURE ,1
+Custoemer wanted OS1  16 ,1
+sensor somehow becomes very slow to initialize and transfer the data.  We have also noticed that the cover has a crack ,1
+LIDAR_DMA_HALTED ,1
+cannot connect sensor to network ,1
+cold to touch  does not turn on after a few months of disuse ,1
+unopened returned ,1
+Sensor wont Spin Up  Potential QSPi ,1
+Exchange of sensor under agreement ,1
+Intermittent downlink ,1
+unconfigured sensor ,1
+End Customer Caterpillar    Failed vibration test ,1
+sensor to be recalibrated ,1
+unit not received   stuck in customs ,1
+Sensor won't turn on or spin ,1
+COMM error   replace sensor ,1
+Sensor recalibration did not resolve curved ground issue ,1
+Water Ingress ,1
+swap return ,1
+The sensor is producing noise  with video. Antler rubbing ,1
+issues spinning up even when starting ‘cold’ (unpowered overnight). ,1
+output from the lidar is INITIALIZING and UNCONFIGURED repeated. 0x0100002c ,1
+not reporting data ,1
+reinitialize the unit and it never turned back on (no diagnostics) ,1
+unconfigured error ,1
+eeprom downlink error ,1
+Sensor not powering on ,1
+Pre emptive   ODU sensor return   per Chris AH ,1
+Incorrect Sensor Sent ,1
+Tied Up in Customs ,1
+Bad bearings. Noise. Shut down after start up ,1
+return of RMA for Gen2 sensor ,1
+No Rotation  LiDar not starting ,1
+Sensor noisy and not receiving data from it ,1
+Don't get UDP packets and temp too high ,1
+Sensor does not boot ,1
+0x0100003D LIDAR_DMA_HALTED Powering on and off intermittedly ,1
+Return of unit to retrofit cap ,1
+No Window_Rejection_Enable in 1.13  Losing chunks of data in 1.12 ,1
+Since upgrade to 1.13 error message ,1
+return of broken sensor which is a loaner ,1
+Sensor misconfigured from factory ,1
+The sensor has suffered a light vibration test before failure. ,1
+Failed Unit Does not switch on ,1
+Ethernet stopped working  then entire sensor stopped working ,1
+water ingress ,1
+Loud Spinning noise ,1

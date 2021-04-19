@@ -1,0 +1,163 @@
+ None   ,104
+Failed Unit ,37
+Downlink and Water ingress ,7
+Sensor Failure ,7
+Sensors wont spin up reliably in cold weather ,6
+consumed ~3.6W steadily. No rotation. The ethernet interface is dead in the sense that no frames are emitted  not even the multicast messages that are sent on boot up ,4
+Failed Units ,4
+Sensors stopped producing Data ,4
+Random False Positives ,4
+Sensor wont Spin Up ,4
+Defective Lidars (3) ,3
+Ethernet interface dead.  Sensors not spinning ,3
+Failed sensors after running 24/7 ,3
+After restart attempts  unit did not recover. Going to error stat ,3
+Heatsink RTD failure ,2
+Internal errors and not reporting data ,2
+Missing data in the packets ,2
+unconfigured sensor ,2
+Failed waterproof testing    Samsung end customer ,2
+Water Ingress ,2
+TX Overheat Alert ,2
+Pre emptive replacement ,2
+Loaner Return ,2
+Sensor Quit Spinning ,2
+109   failed  022 overheats ,2
+Sensor does not send data ,2
+Failed Units   blurry point cloud on one  not visible on other ,2
+Overheating  sensor turns on but does not spin ,2
+failed vibration test at end customer: Caterpillar ,2
+Sensors stopped working after they took truck out in the rain ,2
+Refund(s) ,2
+Trouble visualizing and maintaining 1G connection ,1
+recalibrated sensor returned as it did not meet requirements ,1
+sealing was not glued well enough and got off ,1
+DOWNLINK_STARTUP_FAILURE ,1
+higher noise than usual  there may be some mechanical interference ,1
+0's in all azimuth / altitude angles ,1
+Fail   intermittant connection issue  can not connect with Ouster Studio  or CS test app ,1
+issues with distortion  especially in the near range 1 5m ,1
+Customer dropped sensor ,1
+Just for your information  the motor does spin  but the laser flash is not visible like it is normally. // Internal_COMM ,1
+sensor somehow becomes very slow to initialize and transfer the data.  We have also noticed that the cover has a crack ,1
+image after upgrade of sensor is degraded ,1
+LIDAR_DMA_HALTED ,1
+cannot connect sensor to network ,1
+OS2 64 out of the box sensor gives RX_EEPROM_SYNC_ERROR ,1
+sensor immediately gets overtemp errors despite being properly heat sinked ,1
+Unit is not spinning or warming up ,1
+cold to touch  does not turn on after a few months of disuse ,1
+sensor does not power on ,1
+Sensor wont Spin Up  Potential QSPi ,1
+Recal: Unit has no beam angles at EOL ,1
+Zero beam angles ,1
+Intermittent downlink ,1
+Point Cloud Issue ,1
+start up error ,1
+End Customer Caterpillar    Failed vibration test ,1
+we couldn't keep it alive to do a single collect. ,1
+Noisy  seems to be bearing issue  20db higher than normal ,1
+Sensor will not power up ,1
+Sensor stopped sending out point cloud data ,1
+Sensor not spinning and not configured ,1
+Sensor making a loud sound ,1
+Motor start up failure ,1
+Sensor won't turn on or spin ,1
+COMM error   replace sensor ,1
+noisy ambient image  lots of shot limiting ,1
+Sensor recalibration did not resolve curved ground issue ,1
+unit no longer spins ,1
+Customer cannot ping the lidar anymore ,1
+run 2 3 seconds then failure with overheating alerts ,1
+The sensor is producing noise  with video. Antler rubbing ,1
+internal fault error ,1
+gen 2 Sensor works for a while  then shuts down  runs really hot ,1
+issues spinning up even when starting ‘cold’ (unpowered overnight). ,1
+sensor heats up but lasers don't spin or fire. cannot connect to sensor. ,1
+Sensor not reading properly at Min Range ,1
+output from the lidar is INITIALIZING and UNCONFIGURED repeated. 0x0100002c ,1
+did not see either DHCP or mDNS packets from the ouster. ,1
+not reporting data ,1
+reinitialize the unit and it never turned back on (no diagnostics) ,1
+Sensor doesn't give full 360 view and is noisy ,1
+0x0100002c  streaming of lidar happens intermittently ,1
+unconfigured error ,1
+Sending 50% packets ,1
+Sensor wont power on ,1
+Trouble making connection to the sensor ""Internal fault""" ,1
+High Noise Level (64db) ,1
+Not spinning  generating too much heat  internal temp out of bounds. ,1
+eeprom downlink error ,1
+Sensor not powering on ,1
+Lidar produces annoying beeping sound when running ,1
+Out of warranty sensor  customer wants FA done ,1
+Incorrect Sensor Sent ,1
+Tied Up in Customs ,1
+out of warranty sensor  customer wanting replacement ,1
+Return of 30 day try & buy offer   put into EMEA loaner pool ,1
+Internal data transfer issues ,1
+Damage to window   need to evaluate for misuse ,1
+Bad bearings. Noise. Shut down after start up ,1
+Sensor stopped sending Data ,1
+Sensor making clicking noise ,1
+bad false positives in certain pixels ,1
+failing to program the FPGA  investigate eMMC problems ,1
+No Rotation  LiDar not starting ,1
+Moisture Ingress  Missing Points ,1
+Sensor does not spin up  ECO1 ,1
+failing sensor ,1
+Sensor noisy and not receiving data from it ,1
+Don't get UDP packets and temp too high ,1
+Large Amount of Noise ,1
+sensor does not even turn on for less a 1 minute before it shuts off ,1
+Broken bearings ,1
+Sensor does not boot ,1
+Range Calibration Issue ,1
+Sensor stopped spinning ,1
+0x0100003D LIDAR_DMA_HALTED Powering on and off intermittedly ,1
+Broken connector on sensor  no rotation ,1
+Tried to update from 1.13 beta to 1.13 release and status on sensor now  unconfigured   end customer Catepillar ,1
+No Packets from Sensor ,1
+PPS time sync not working. Krishtof has narrowed the likely cause to the sensor ,1
+Initialization failure with ""Internal_COMM"" error   Loaner return" ,1
+Lidar Packets failing to send ,1
+Pointcloud  shows several rings ,1
+Unit has experienced an internal COMM error ,1
+Ouster sending 100 packets/s ,1
+Point cloud issues ,1
+Poor Point Cloud Quality ,1
+Sensor does not boot   End Customer Daimler ,1
+DOA Loose internals  broken ,1
+no longer turning was mounted transversely on the robot ,1
+No Window_Rejection_Enable in 1.13  Losing chunks of data in 1.12 ,1
+Sensor Noisy ,1
+Since upgrade to 1.13 error message ,1
+hardware issue   no ethernet respond ,1
+Sensor too hot  stops working ,1
+LIDAR is not responding and is consumes only ~150mA at the 24V ,1
+return of broken sensor which is a loaner ,1
+Lidar does not heat up or spin or show signs of connectivity upon plugging in ,1
+Downlink Error ,1
+new sensor doesn't work  ,1
+Rattling  broken ,1
+Heatsink RTD Failure ,1
+Unconfigured Demo Sensor ,1
+The sensor has suffered a light vibration test before failure. ,1
+Failed Unit Does not switch on ,1
+rma of rma ,1
+Failed Unit   water damage ,1
+Ethernet stopped working  then entire sensor stopped working ,1
+command to query data from the lidar  it returns empty data. get_lidar_intrinsics returning 0s for beam / azimuth angles ,1
+Sensor not starting in cold ,1
+Sensor not spinning ,1
+Appears to be a hardware issue. The error logs shows ""TX_HEATSINK_OVERTEMP"" and """"Temp 133.293747 > 100.000000""." ,1
+Customer dropped sensor   selling them new one under discounted oow sales ,1
+water ingress ,1
+Loud Spinning noise ,1
+Corrupt (QSPI  bit flip) ,1
+Unit unreliable  no lidar data packets are published every couple minutes ,1
+Incorrect Beam Spacing ,1
+Fails to call DNS  reduction of Lidar points  clicking sound ,1
+Sensory Buzzing  heats up End customer: RWTH:Aachen Univ ,1
+OS 1 reporting UNCONFIGURED. Log id: 0x0100002A  WIRELESS_POWER_STARTUP_SLOW ,1
+high pitched banging sound when sensor spins ,1

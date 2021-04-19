@@ -1,0 +1,47 @@
+ Belowspec units to be replaced with atspec units,CU000060 NVidia,1,7/1/2020 10:50 am,RMA010341
+ Belowspec units to be replaced with atspec units,CU000060 NVidia,1,7/1/2020 10:44 am,RMA010340
+ 0x0100002c, streaming of lidar happens intermittently,CU203872 SHANGHAI EAGLE TRADING CO.,LTD. For Alex,1,6/9/2020 11:27 am,RMA010315
+ Incorrect Beam Spacing,CU203795 Akirakan,1,6/5/2020 1:04 pm,RMA010311
+ Return of 30 day try & buy offer,CU000179 Kaarta,1,6/30/2020 11:47 am,RMA010338
+ Return unopened unit,CU010462 Rizse Inc,1,6/26/2020 9:26 am,RMA010334
+ Preemptive replacement  ECO1 change, vibration testing unit,CU010606 CAT,1,6/2/2020 12:45 pm,RMA010306
+ DOA Loose internals, broken,CU202549 Neolix Technologies Co,1,6/18/2020 4:44 pm,RMA010331
+ Sensor too hot, stops working,CU203561 NIBIO,1,6/16/2020 4:46 pm,RMA010326
+ Pointcloud, shows several rings,CU201885 Ysly Co., Ltd. (distributor for National Taiwan University),1,6/12/2020 9:32 am,RMA010320
+" Initialization failure with ""Internal_COMM"" error  Loaner return",CU202549 Neolix Technologies Co,1,6/10/2020 9:14 am,RMA010319
+ Sensor does not spin up, ECO1,CU010606 CAT,1,6/1/2020 8:55 am,RMA010305
+ Deliver final hardware configuration,CU000060 NVidia,4,5/6/2020 4:08 pm,RMA010287
+ Want to provide better quality sensors to benchmark with,CU010109 Volkswagen : Autonomous Intelligent Driving GmbH,2,5/5/2020 9:47 am,RMA010282
+ Deliver final hardware configuration,CU000060 NVidia,8,5/5/2020 4:27 pm,RMA010286
+ Deliver final hardware configuration,CU000060 NVidia,3,5/5/2020 3:33 pm,RMA010284
+ start up error,CU000138 Volkswagen : Scania CV AB,1,5/5/2020 11:42 am,RMA010283
+ No Packets from Sensor,CU000235 Okaya USA,1,5/28/2020 9:31 am,RMA010302
+ presumed loaner return,CU001860 Momenta.ai,1,5/28/2020 12:16 pm,RMA010303
+ Return of 30 day try & buy offer  put into EMEA loaner pool,CU000345:2 ETH Zurich : Sevensense Robotics Ltd.,1,5/26/2020 10:10 am,RMA010300
+ Belowspec units to be replaced with atspec units,CU000029 May Mobility,1,5/22/2020 2:14 pm,RMA010299
+ Belowspec units to be replaced with atspec units,CU000029 May Mobility,1,5/22/2020 2:03 pm,RMA010298
+ Belowspec units to be replaced with atspec units,CU000029 May Mobility,1,5/22/2020 1:58 pm,RMA010297
+ Belowspec units to be replaced with atspec units,CU000029 May Mobility,1,5/22/2020 1:52 pm,RMA010296
+ Units with undefined beam angles returned, all have ECO1  Rx Boards,CU000138 Volkswagen : Scania CV AB,11,5/19/2020 2:09 pm,RMA010294
+ gen 2 Sensor works for a while, then shuts down, runs really hot,CU000138 Volkswagen : Scania CV AB,1,5/15/2020 7:32 am,RMA010291
+ Sensor does not send data,CU000138 Volkswagen : Scania CV AB,1,5/15/2020 7:16 am,RMA010290
+ issues with distortion, especially in the near range 15m,CU010215 UCS,1,5/15/2020 3:59 pm,RMA010292
+ evaluation unit showing poor short range PD performance on dark object,CU000491:1 Didi Chuxing : Didi Research America, LLC,1,5/11/2020 8:53 am,RMA010288
+ Trouble visualizing and maintaining 1G connection,CU000235 Okaya USA,1,4/30/2020 8:07 pm,RMA010279
+ cannot connect sensor to network,CU000235 Okaya USA,1,4/3/2020 1:24 pm,RMA010261
+ None ,CU201925 Cavotec,1,4/29/2020 4:46 pm,RMA010277
+ None ,CU201925 Cavotec,1,4/29/2020 4:32 pm,RMA010276
+ None ,CU202172 PUBLIC COMPUTATIONAL SERVICES CHARITY, LTD.,1,4/27/2020 10:25 am,RMA010272
+ None ,CU000265 Flyability SA,1,4/22/2020 8:37 am,RMA010270
+ failing sensor,CU000060 NVidia,1,4/22/2020 2:55 pm,RMA010271
+ Failed sensors after running 24/7,CU000060 NVidia,3,4/14/2020 3:37 pm,RMA010265
+ Below Spec	Lenses aren't frosted,CU000837 Uber : Uber ATG,1,3/3/2020 4:51 pm,RMA010237
+ Below Spec	Lenses aren't frosted,CU000219 Aurora Innovation, Inc.,1,3/3/2020 4:24 pm,RMA010236
+ Below Spec Lenses aren't frosted,CU000029 May Mobility,1,3/3/2020 4:14 pm,RMA010235
+ Below Spec Lenses aren't frosted,CU000031 Optimus Ride,1,3/3/2020 3:52 pm,RMA010234
+ Below Spec	Lenses aren't frosted,CU202549 Neolix Technologies Co,2,3/3/2020 12:14 pm,RMA010233
+ Below Spec	Lenses aren't frosted,CU000836:1 Apple : Apple, Inc (Apple Maps),3,3/3/2020 11:35 am,RMA010232
+ DOWNLINK_STARTUP_FAILURE,CU000060 NVidia,1,3/24/2020 12:53 pm,RMA010255
+ unopened returned,CU202549 Neolix Technologies Co,1,2/26/2020 11:36 am,RMA010225
+ Failed Unit,CU202549 Neolix Technologies Co,1,2/26/2020 11:12 am,RMA010224
+ output from the lidar is INITIALIZING and UNCONFIGURED repeated. 0x0100002c,CU000060 NVidia,1,2/21/2020 12:08 pm,RMA010218

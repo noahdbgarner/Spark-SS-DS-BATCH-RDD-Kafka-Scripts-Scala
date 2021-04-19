@@ -1,0 +1,8 @@
+bad message, 000000, , no useful log data
+vendor/nest/reconnect/src/Droptalk/DroptalkMediaSink.cpp()] Disable Backfill, 100001, HRFT HRLV HRNA
+() WEAVE:EM: ERROR: Failed to Send Weave, 100002, CSFT HRFT HRLV HRNA, not sure
+. flutter_embedder.cc:] Flutter failed: util::PosixErrorSpace::No such file or directory: error connecting to Wayland display, 100003, HRFT HRLV HRNA
+. gallium_heartbeat.cc:] Cast connection is not available: heartbeat write failed, 100004, HRFT HRLV HRNA
+Health check failed; receiver thread didn't respond within, 100005, CSFT CSLV CSNA
+Child service will attempt restart soon: name=crash_uploader, 100006, CSFT, unable to connect to cloud because of WiFi issue
+[ERROR:cast_content_window_opal.cc()] App ID not found, 100007, HRFT

@@ -1,0 +1,5 @@
+attic, 192.168.86.25, FT, DVT
+kitchen, 192.168.86.33, FT, DVT
+basement, 192.168.86.24, FT, EVT
+castreboot_ft, 172.16.243.186, FT, DVT
+hardreboot_ft, 172.16.243.212, FT, DVT
