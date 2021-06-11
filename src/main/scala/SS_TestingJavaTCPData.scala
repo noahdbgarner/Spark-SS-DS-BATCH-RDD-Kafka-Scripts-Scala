@@ -1,11 +1,9 @@
-import java.sql.Timestamp
-
-import LogGenerator._
 import org.apache.spark.sql._
+import org.apache.spark.sql.functions.window
+
+import java.sql.Timestamp
 import java.time.LocalDateTime
 import java.util.regex.Pattern
-
-import org.apache.spark.sql.functions.window
 
 /** Converts randomdData gen by Java Method, Maps to sentences occurances > to <
   * Simply run [ncat -lk [localhost] [PORT] | ncat -lk [localhost] [PORT]
@@ -61,6 +59,8 @@ object SS_TestingJavaTCPData {
     //only want error spam
     Utilities.setupLogging
 
+    System.setProperty("hadoop.home.dir", "c:\\winutil\\")
+
     //set up sparkSession for structured streams and Spark SQL
     val spark = SparkSession
       .builder
@@ -97,7 +97,7 @@ object SS_TestingJavaTCPData {
       .orderBy($"window".desc)
 
     //write the stream
-    val query = structuredObjects
+    val query = allData
       .writeStream
       .outputMode("complete")
       .format("console")
